@@ -1,4 +1,4 @@
-# 📬 Mbox Tool — Effortlessly Manage & Filter Large MBOX Files (Up to 3GB+)
+# 📬 Mbox Tool — Effortlessly Manage & Filter Large MBOX Files (Up to 8GB+)
 
 **Mbox Tool** is a lightweight yet powerful utility for opening, viewing, filtering, and managing large `.mbox` files containing thousands of emails. Whether you're cleaning up old archives, extracting important messages, or removing irrelevant ones, Mbox Tool gives you full control — all through an intuitive interface.
 
